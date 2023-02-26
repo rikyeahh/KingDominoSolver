@@ -1,0 +1,112 @@
+[
+  {
+    "number": "1",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "2",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "3",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "4",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "5",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "6",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "7",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "8",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "9",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "10",
+    "left": {
+      "suit": "grass",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "number": "1",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "2",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "3",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "4",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "5",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "6",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "7",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "8",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "9",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "10",
+    "left": {
+      "suit": "grass",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "11",
+    "left": {
+      "suit": "grass",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "12",
+    "left": {
+      "suit": "swamp",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "13",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "14",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "15",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "16",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "17",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "18",
+    "left": {
+      "suit": "forest",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "19",
+    "left": {
+      "suit": "wheat",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "20",
+    "left": {
+      "suit": "wheat",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "21",
+    "left": {
+      "suit": "wheat",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "22",
+    "left": {
+      "suit": "wheat",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "23",
+    "left": {
+      "suit": "wheat",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "mine",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "24",
+    "left": {
+      "suit": "forest",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "25",
+    "left": {
+      "suit": "forest",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "26",
+    "left": {
+      "suit": "forest",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "27",
+    "left": {
+      "suit": "forest",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "28",
+    "left": {
+      "suit": "forest",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "water",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "29",
+    "left": {
+      "suit": "forest",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "30",
+    "left": {
+      "suit": "water",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "31",
+    "left": {
+      "suit": "water",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "32",
+    "left": {
+      "suit": "water",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "33",
+    "left": {
+      "suit": "water",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "34",
+    "left": {
+      "suit": "water",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "35",
+    "left": {
+      "suit": "water",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "forest",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "36",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "1"
+    }
+  },
+  {
+    "number": "37",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "1"
+    }
+  },
+  {
+    "number": "38",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "1"
+    }
+  },
+  {
+    "number": "39",
+    "left": {
+      "suit": "grass",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "1"
+    }
+  },
+  {
+    "number": "40",
+    "left": {
+      "suit": "mine",
+      "crowns": "1"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "41",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "2"
+    }
+  },
+  {
+    "number": "42",
+    "left": {
+      "suit": "water",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "grass",
+      "crowns": "2"
+    }
+  },
+  {
+    "number": "43",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "2"
+    }
+  },
+  {
+    "number": "44",
+    "left": {
+      "suit": "grass",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "swamp",
+      "crowns": "2"
+    }
+  },
+  {
+    "number": "45",
+    "left": {
+      "suit": "mine",
+      "crowns": "2"
+    },
+    "right": {
+      "suit": "wheat",
+      "crowns": "0"
+    }
+  },
+  {
+    "number": "46",
+    "left": {
+      "suit": "swamp",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "mine",
+      "crowns": "2"
+    }
+  },
+  {
+    "number": "47",
+    "left": {
+      "suit": "swamp",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "mine",
+      "crowns": "2"
+    }
+  },
+  {
+    "number": "48",
+    "left": {
+      "suit": "wheat",
+      "crowns": "0"
+    },
+    "right": {
+      "suit": "mine",
+      "crowns": "3"
+    }
+  }
+]
