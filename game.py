@@ -251,7 +251,7 @@ class Play:
 
     def __eq__(self, other: object) -> bool:
         if not isinstance(other, Play):
-            raise NotImplementedError
+            return False
         return (
             self.domino == other.domino
             and (
@@ -299,7 +299,10 @@ class Grid:
         self.min_y = half
 
     def __getitem__(self, point: Point) -> typing.Optional[Tile]:
-        return self.grid[point.x][point.y]
+        try:
+            return self.grid[point.x][point.y]
+        except:
+            return None
 
     def __setitem__(self, point: Point, tile: Tile) -> None:
         self.min_x, self.min_y = self.min(point)
@@ -490,6 +493,8 @@ class Board:
             direction: typing.Optional[Direction] = None
     ) -> typing.Set[Play]:
         """Returns a list of all valid plays given a Play containing a domino."""
+        if domino is None:
+            return set()
         valid = set()
         directions = (direction,) if direction else Direction
         points = (point,) if point else self._vacant_points()
